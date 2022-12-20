@@ -132,5 +132,12 @@
         "c": "In the beginning",
         "d": "At that time",
         "answer": "c"
+    },
+    { "question": "How many layers of clothing does Varshika wear?",
+      "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "Yes",
+        "answer": "d"
     }
 ]
